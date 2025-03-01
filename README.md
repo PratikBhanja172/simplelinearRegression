@@ -4,11 +4,7 @@ import pandas as pd
 import seaborn as sns
 from sklearn import linear_model
 import matplotlib.pyplot as plt
-
 !pip install opendatasets
-
-"""# New section"""
-
 df = pd.read_csv("/content/Salary_Data.csv")
 df.head()
 
