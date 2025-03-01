@@ -1,7 +1,4 @@
 !pip install opendatasets  # to install opendataset python package to easily download the datsets from any platform
-
-
-
 import numpy as np
 import pandas as pd
 import seaborn as sns
